@@ -1,6 +1,13 @@
 package abstraction;
 
 public class HR extends Employee{
+/*
+	public HR(int a, String str) {
+		super(a, str);
+	}
+*/
+	
+
 	public void check() {
 		System.out.println("abstraction in HR ");
 	}

@@ -5,7 +5,7 @@ public class Test {
 		MainClass mc = new MainClass();
 		
 		mc.main(12);
-		mc.main("Overloading main() checking", 6339);
+		System.out.println(mc.main("Overloading main() checking", 6339));
 		
 		/* in polymorphism -1. method name should be same.
 		 * 					2. parameter should be different.

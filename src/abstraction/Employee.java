@@ -20,7 +20,8 @@ public abstract class Employee {
 		}
 	}
  */
-	
+
+
 	public void check() {
 		
 		System.out.println("Abstaction check in employee");

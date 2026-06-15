@@ -14,6 +14,7 @@ public class Test {
 		emp1 = new Developer();
 		emp1.a = 101;
 		emp1.check();
+		dev.m1();
 //		emp1.check(101);
 //		emp1.checkBoolean(10001);
 		
