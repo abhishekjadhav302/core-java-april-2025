@@ -6,9 +6,11 @@ public class Test {
 
 		Zomato z = new Zomato();
 		SetIntro i = new SetIntro();
+		ListPractice lp = new ListPractice();
 
-		i.settest();
-
+//		i.settest();
 //		z.check();
+		lp.arrayListTest();
+
 	}
 }

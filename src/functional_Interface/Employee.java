@@ -2,5 +2,9 @@ package functional_Interface;
 
 @FunctionalInterface
 public interface Employee {
-	char getChar(int num);
+	public char getChar(int num);
+
+	public default void checkFunc() {
+		System.out.println();
+	}
 }
